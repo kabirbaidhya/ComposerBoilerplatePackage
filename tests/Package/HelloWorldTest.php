@@ -1,4 +1,4 @@
-<?php namespace Gckabir\Artylite;
+<?php namespace Vendor\Package;
 
 class HelloWorldTest extends TestCase
 {

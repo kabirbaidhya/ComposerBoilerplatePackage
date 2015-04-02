@@ -1,0 +1,16 @@
+#!/usr/bin/env php
+<?php
+// Tool for setting up the package boilerplate code
+echo "\nPackage Name(vendor/package) : ";
+$packageName = trim(fgets(STDIN));
+
+echo "\nAuthor : ";
+$author = trim(fgets(STDIN));
+
+echo "\nAuthor Email : ";
+$email = trim(fgets(STDIN));
+
+echo "\nNamespace(Vendor\Package) : ";
+$namespace = trim(fgets(STDIN));
+
+
